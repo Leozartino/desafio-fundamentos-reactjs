@@ -1,0 +1,6 @@
+{
+  "workbench.colorTheme": "SynthWave '84",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#0ca1db" // change this color!
+  }
+}
